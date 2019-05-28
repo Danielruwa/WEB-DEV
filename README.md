@@ -126,10 +126,157 @@ Web development group work
   </div>
 </div>
 </div>
+
+<!-- New Releases Section -->
+<div id="newReleases">
+  <div class="col-12 text-center">
+	<h3 class="heading">New Releases & Top Trends</h3>
+	<div class="heading-underline"></div>
+  </div>
+	
+<div class="row padding">
+
+	<div class="col-md-6">
+		<div class="card text-center">
+			<img class="card-img-top" src="img/newR/Chelsea-home-kit-main-2019-2020.jpg">
+			<div class="card-body">
+				<h4>Chelsea</h4>
+				<p>The 2019/2020 Home kit<br/>Photo shoot with the first team.</p>
+				<a href="#anotherpage1" class="btn btn-primary btn-lg">Pre-Order</a>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-6">
+		<div class="card text-center">
+			<img class="card-img-top" src="img/newR/Liverpool-fc-2019-20-home-kit-red-stripes-new-balance.jpg">
+			<div class="card-body">
+				<h4>Liverpool</h4>
+				<p>The 2019/2020 Home kit<br/>Photo shoot with the first team.</p>
+				<a href="#anotherpage2" class="btn btn-primary btn-lg">Pre-Order</a>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-6">
+		<div class="card text-center">
+			<img class="card-img-top" src="img/women/Nike 'Victory' 2019 Women's World Cup Boots Pack Launched.jpg">
+			<div class="card-body">
+				<h4>Nike Women</h4>
+				<p>All New<br/>Nike 'Victory' 2019 Women's World Cup Boots Pack Launched</p>
+				<a href="#anotherpage3" class="btn btn-primary btn-lg">Pre-Order</a>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-6">
+		<div class="card text-center">
+			<img class="card-img-top" src="img/newR/addidas Predator 19+SG-Active Red_Solor Red-Core Black.jpg" height="258px";>
+			<div class="card-body">
+				<h4>Addidas</h4>
+				<p>All new<br/>Addidas Predator 19+SG-Active Red_Solor Red-Core Black</p>
+				<a href="#anotherpage4" class="btn btn-primary btn-lg">Order Now</a>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+
+
+<!--- Men Section --->
+<div id="men">
+  <div class="col-12 text-center">
+	<h3 class="heading">Men</h3>
+	<div class="heading-underline"></div>
+  </div>
+
+<div class="row padding">
+
+	<div class="col-md-3">
+		<div class="card text-center">
+			<a href="#1"><img class="card-img-top" src="img/men/adidas-predator-18-fg-core-blackwhitered.jpg"></a>
+			<div class="card-body">
+				<h3>Adidas Predator 18 FG</h3>
+				<p>Ksh 15,000</p>
+			</div>
+		 </div>
+	</div>
+		
+	<div class="col-md-3">
+		<div class="card text-center">
+			<a href="#2"><img class="card-img-top" src="img/men/Nike Hypervenom Phade FG.jpg"></a>
+			<div class="card-body">
+				<h3>Nike Hypervenom Phade FG</h3>
+				<p>Ksh 10,000</p>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-3">
+		<div class="card text-center">
+			<a href="#3"><img class="card-img-top" src="img/men/nike_mercurial_superfly_360_elite_se_fg_lvl_up__pure_platinum_white_black_3.jpg" height="150px"></a>
+			<div class="card-body">
+				<h3>Nike Mercurial Superfly 360 Elite Se FG</h3>
+				<p>Ksh 10,000</p>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-3">
+		<div class="card text-center">
+			<a href="#4"><img class="card-img-top" src="img/men/addidas Predator.jpg" height="150px"></a>
+			<div class="card-body">
+				<h3>Addidas Predator</h3>
+				<p>Ksh 10,000</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--- Women section --->
+<div class="container-fluid justify-content-center">
+<div id="women">
+  <div class="col-12 text-center">
+	<h3 class="heading">Women</h3>
+	<div class="heading-underline"></div>
+  </div>
+  <img src="img/women/Barca Womens.jpg">
+	<a href="#womenpage" class="btn btn-primary btn-lg">Explore</a>
+</div>
+</div>
+
+<!--- Kids Section --->
+<div class="container-fluid justify-content-center">
+<div id="kids">
+  <div class="col-12 text-center">
+	<h3 class="heading">Kids</h3>
+	<div class="heading-underline"></div>
+  </div>
+  <img src="img/kids/Kidsimage.jpg">
+	<a href="#kidspage" class="btn btn-primary btn-lg">Explore</a>
+</div>
+</div>
+
+<!-- Contact Section -->
+<div id="contact">
+  <footer>
+<div class="row justify-content-center">
+
+	<div class="col-md-5 text-center">
+		<img src="img/Logo.png">
+		<p>We have a collection of different new jerseys and cleats of sizes to satisfy our customers. Checkout our Facebook, Twitter and Instagram pages.</p>
+		<strong>Contact Info</strong>
+		<p>(+254)4041-6423<br>email@gmail.com</p>
+		<a href="https://twitter.com/home" target="-blank"><i class="fab fa-twitter-square"></i></a>
+		<a href="https://facebook.com/home" target="-blank"><i class="fab fa-facebook-square"></i></a>
+		<a href="https://instagram.com/home" target="-blank"><i class="fab fa-instagram"></i></a>
+	</div>
+	
+	<hr class="socket">
+	&copy; Football World.
+	</div>
+</footer>
+</div>
 </body>
 </html>
 
-/*--- CSS file below ---*/
+
+/*--- CSS FILE BELOW ---*/
 
 body{
 	overflow-x: hidden;
@@ -198,4 +345,68 @@ h6{
 	color: #00000;
 	padding: 4rem;	
 	text-shadow: .1rem .1rem .5rem black;
-}
+	}
+	
+/*--- ABOUT SECTION ---*/
+.jumbotron {
+	border-radius: 0;
+	padding: .01rem 0 13rem; /*-- Top and Bottom padding *--/
+	}
+/*--- NEW RELEASE SECTION ---*/
+h3.heading{
+	font-size: 1.8rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 5.2rem;
+	padding-bottom: 1.9rem;
+	}
+.heading-underline{
+	width: 3rem;
+	height: .2rem;
+	background-color: #DAA520;
+	margin: 0 auto 1rem;
+	}
+.card{
+	margin: 2rem;
+	}
+	
+/*-- MEN SECTION --*/
+.card.col-md-3{
+	margin: .01rem;
+	}
+	
+/*-- WOMEN & KIDS SECTION --*/
+.container-fluid{
+	width: 80%;
+	height: 80%;
+	padding-bottom: 12rem;
+	}
+
+/*-- CONTACT --*/
+footer{
+	background-color: #40474e;
+	color: white;
+	padding: 5rem 0 3rem;
+	margin-top: 1rem;
+	}
+footer img{
+	height: 6rem;
+	margin: 1.5rem 0;
+	}
+footer a{
+	color: white;
+	}
+footer a{
+	color: white;
+	}
+footer svg.svg-inline--fa{
+	font-size: 1.6rem;
+	margin: 1.2rem .5rem 0 0;
+	}
+footer svg.svg-inline--fa:hover{
+	color: #ff8000;
+	}
+hr.socket{
+	border-top: .2rem solid #ff8000;
+	width: 100%;
+	}
